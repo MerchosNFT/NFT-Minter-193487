@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xC37Abc6716337987B4d8Cec5a0Ffd95cD8c7Bd0D",
+  "SCAN_LINK": "https://goerli.etherscan.io/token/0xc37abc6716337987b4d8cec5a0ffd95cd8c7bd0d",
+  "NETWORK": {
+    "NAME": "Goerli",
+    "SYMBOL": "ETH",
+    "ID": 5
+  },
+  "NFT_NAME": "Surfer Dudes",
+  "SYMBOL": "SD",
+  "MAX_SUPPLY": 20,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0.001,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/winwin-sticker-nft",
+  "SHOW_BACKGROUND": true
+}
